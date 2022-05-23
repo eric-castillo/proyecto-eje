@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html> 
+ <head> 
+<html lang="en">
+ <meta charset="UTF-8">
+    <title>Kitsune</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="Estilo.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link rel="icon" type="image/png" href="ICON KITSUNE.jpg">
+    <title> "Kitsune" </title>
+ <link rel="stylesheet"type="text/css" href="estilo.css">
+ </head>
+    <header>
+<header style="background-color:#EF5350;">
+    
+ <ul class="menu">
+ <li><a href="#">Inicio</a> </li>
+<li><a href="#">Menu</a> </li>
+ <li><a href="D:\Nueva carpeta\promociones.html">Promociones</a></li> 
+ <li><a href="#">Mercancia</a> </li>
+ <li><a href="D:\Nueva carpeta (2)\lugares2">Sucursales</a></li>
+ <li><a href="#">Contactanos</a> </li>
+  </ul>
+    </header>
+<body>
+<body style="background-color:#FFFFFF;">
+<div class="wrapper">
+ <div class="slider" id="slider">
+  <ul class="slides"> 
+   <li class="slide" id="slide1">
+    <a href="#">
+     <p class="caption">COMIDA JAPONESA/MEXICANA</P>
+    <img src="https://wallpapercave.com/wp/wp2394055.jpg" alt="photo 1">
+   </a> 
+   </li>
+<li class="slide" id="slide2">
+    <a href="#">
+     <p class="caption">COMIDA JAPONESA/MEXICANA</P>
+  <img src="https://th.bing.com/th/id/OIP.UBnOcQh5PzY5CwM_Xq-xdgHaE6?pid=ImgDet&rs=1" alt="photo 2"> 
+  </a>
+  <(li>
+<li class="slide" id="slide3">
+    <a href="#">
+     <p class="caption">COMIDA JAPONESA/MEXICANA</P> 
+ <img src="https://www.tsunagujapan.com/wp-content/uploads/2015/05/f0300045_11562964.jpg" alt="photo 3">
+ </a>
+ </li>
+<li class="slide" id="slide4">
+    <a href="#">
+     <p class="caption">COMIDA JAPONESA/MEXICANA</P> 
+ <img src="https://static.vecteezy.com/system/resources/previews/001/131/432/large_2x/takoyaki-photo.jpg" alt="photo 4"> 
+ </a>
+ </li>
+ </li>
+ </ul>
+<ul class="slider-controler">
+      <li><a href="#slide1">&bullet;</a></li>
+      <li><a href="#slide2">&bullet;</a></li>
+      <li><a href="#slide3">&bullet;</a></li>
+      <li><a href="#slide4">&bullet;</a></li>
+
+</ul>
+  </div>
+</div>
+<div class="mascota">
+<p> 
+<img src="mitzune.png" width="800" height="800" hspace="15" align="left">
+</p>
+</div>
+</body>
+
+<footer>
+<footer style="background-color:#EF5350;">
+<h1><p> CONOCENOS </p></h1>
+<h3><p>Bienvenido a la experiencia unica de sabor de Kitsune
+Kitsune nace del deseo de brindar nuevas experiencias gastronomicas dando lugar al encuentro de lo mejor de dos culturas para crear sabores unicos que conquisten el corazon y paladar de cada uno de nuestros comensales.
+Nuestra historia se remonta a nuestras tradiciones familiares, buscando preservar y difundir la apertura al exquisito nuevo mundo de la comida japonesa. Queremos despertar el interes por la cultura y costumbres gracias al encuentro con la diversidad de sus sabores.
+Creemos fielmente que comer es uno de los mayores placeres de la vida, Kitsune usa la creacion de menus innovadores con platillos que llevan en su ADN lo mejor de la gastronomia japonesa y la gastronomia mexicana, cada uno de nuestros platos es resultado de una equilibrada y armoniosa fusion de sabores, colores y sensaciones.
+Nosotros somos mas que comida japonesa, mas que tradicion familiar, mas que servicio de calidad, nosotros somos innovacion y originalidad, somos la creacion de experiencias inolvidables.</p></h3>
+<div class="contacto">
+<img src="pnggegg.png">
+</div>
+
+</footer>
+ </html>

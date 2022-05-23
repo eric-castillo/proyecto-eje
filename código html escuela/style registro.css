@@ -1,0 +1,26 @@
+.navegaciónn {
+    width: 1000px;
+    margin: 30px;
+    background: rgb(208, 241, 153);
+}
+
+.navegaciónn ul{
+    list-style: none;
+}
+
+.menu > li{
+    position: relative;
+    display: inline-block;
+
+}
+
+.menu > li > a{
+    display: block;
+    padding: 15px 20px;
+    color: rgb(12, 85, 21);
+    text-decoration: none;
+}
+
+.menu li a:hover{
+    color: yellow;
+}

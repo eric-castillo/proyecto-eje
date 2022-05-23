@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html> 
+ <head> 
+<html lang="en">
+ <meta charset="UTF-8">
+    <title>Kitsune</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="Estilo.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link rel="icon" type="image/png" href="ICON KITSUNE.jpg">
+    <title> "Kitsune" </title>
+ <link rel="stylesheet"type="text/css" href="estilo3.css">
+ </head>
+    <header>
+<header style="background-color:#EF5350;">
+    
+ <ul class="menu">
+ <li><a href="#">Inicio</a> </li>
+<li><a href="#">Menu</a> </li>
+ <li><a href="D:\Nueva carpeta\promociones3.html">Promociones</a></li> 
+ <li><a href="#">Mercancia</a> </li>
+ <li><a href="D:\sucursales\sucursales.html">Sucursales</a></li>
+ <li><a href="#">Contactanos</a> </li>
+  </ul>
+    </header>
+<body>
+
+<body style="background-color:#FFFFFF;">
+<img src="uno.jpg">      <img src="https://media-cdn.tripadvisor.com/media/photo-s/08/0e/b7/34/nagano-restaurante-japones.jpg" align=left width="400" height="300"> <img src="https://res.cloudinary.com/tf-lab/image/upload/w_600,h_337,c_fill,g_auto:subject,q_auto,f_auto/restaurant/c5bbda64-eb0d-46cb-a046-6454999e7fa4/6e48d425-4e5d-4793-a1c6-e5c84528fb1e.jpg" align=left width="400" height="300"><img src="https://www.muyjapones.com/wp-content/uploads/2019/12/Bento-portada.jpg" align=left width="400" height="300">
+<img src="https://st.depositphotos.com/2480945/51525/i/600/depositphotos_515254602-stock-photo-karuizawa-japan-nov-7-2019.jpg" align=left width="300" height="300">
+<img src="dos.jpg">
+ <img src="https://www.eleconomista.com.mx/__export/1507827412363/sites/eleconomista/img/historico/tori-tori.jpg_554688468.jpg" align=left width="400" height="300">
+ <img src="https://images.otstatic.com/prod1/43506962/1/huge.jpg" align=left width="400" height="300">
+ <img src="https://image.architonic.com/imgArc/project-1/4/5202947/rojkind-tori-tori-07.jpg" align=left width="400" height="300">
+<img src="https://cdn-3.expansion.mx/dims4/default/b10350b/2147483647/strip/true/crop/664x374+0+13/resize/600x338!/format/webp/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fmedia%2F2012%2F02%2F14%2F40-0.jpg" align=left width="300" height="300">

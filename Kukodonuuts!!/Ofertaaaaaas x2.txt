@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>OFERTAS Y PROMOCIONES <H1> </H1> </title>
+
+COLAAA
+
+<div class="slider">
+  
+  <ul class="slider">
+    <li id="slide1">
+      <img src="oferta dia del niño.jpg"/>
+    </li>
+    <li id="slide2">
+      <img src="donas con amor.jpg"/>
+    </li>
+    <li id="slide3">
+       <img src="donas.jpg"/>
+    </li>
+  </ul>
+  
+  <ul class="menu">
+    <li>
+      <a href="#slide1">1</a>
+    </li>
+    <li>
+      <a href="#slide2">2</a>
+    </li>
+     <li>
+      <a href="#slide3">3</a>
+    </li>
+  </ul>
+  
+</div>

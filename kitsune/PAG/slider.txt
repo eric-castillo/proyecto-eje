@@ -1,0 +1,37 @@
+
+#slider.slider(style="--img-prev:url(" + images[0] + ");")  
+  #slider-content.slider__content
+    .slider__images
+      each val, i in images
+        - var imgClassName = 'slider__images-item';
+        if i+1 === 1
+          - imgClassName += ' slider__images-item--active';
+        div(class=imgClassName data-id=i+1)
+          img(src=val)
+        
+    .slider__text
+      - var i = 0;
+      each val, key in text
+        
+        - var textClassName = 'slider__text-item';
+        if ++i === 1
+          - textClassName += ' slider__text-item--active';
+        div(class=textClassName data-id=i)
+          .slider__text-item-head
+            h3= key
+          .slider__text-item-info
+            p= val
+        
+  .slider__nav
+    .slider__nav-arrows
+      #left.slider__nav-arrow.slider__nav-arrow--left to left
+      #right.slider__nav-arrow.slider__nav-arrow--right to right
+    #slider-dots.slider__nav-dots
+      
+      - var i = 0;
+      while i++ < images.length
+        - var dotsClassName = 'slider__nav-dot';
+        if i === 1
+          - dotsClassName += ' slider__nav-dot--active';
+      
+        div(class=dotsClassName data-id=i)

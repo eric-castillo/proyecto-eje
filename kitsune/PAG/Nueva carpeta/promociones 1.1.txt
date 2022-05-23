@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html> 
+ <head> 
+<html lang="en">
+ <meta charset="UTF-8">
+    <title>Kitsune</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="estilo2.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link rel="icon" type="image/png" href="ICON KITSUNE.jpg">
+    <title> "Kitsune" </title>
+ <link rel="stylesheet"type="text/css" href="estilo.css">
+ </head>
+<header>
+<header style="background-color:#EF5350;"> 
+ <ul class="menu">
+ <li><a href="#">Inicio</a> </li>
+<li><a href="#">Menu</a> </li>
+ <li><a href="#">Promociones</a></li> 
+ <li><a href="#">Mercancia</a> </li>
+ <li><a href="D:\sucursales\sucursales.html">Sucursales</a></li>
+ <li><a href="#">Contactanos</a> </li>
+  </ul>
+    </header>
+<body>
+<body style="background-color:#FFFFFF;">
+<div class="wrapper">
+ <div class="slider" id="slider">
+  <ul class="slides"> 
+   <li class="slide" id="slide1">
+    <a href="#">
+     <p class="caption">COMIDA PARA NIÑOS A TAN SOLO $180</P>
+    <img src="niño.png" alt="photo 1">
+   </a> 
+   </li>
+<li class="slide" id="slide2">
+    <a href="#">
+     <p class="caption">COMIDA PARA PAREJAS A TAN SOLO $300</P>
+  <img src="parejas.png" alt="photo 2"> 
+  </a>
+  <(li>
+<li class="slide" id="slide3">
+    <a href="#">
+     <p class="caption">COMIDA PARA AMIGOS A TAN SOLO $300</P> 
+ <img src="amigos.png" alt="photo 3">
+ </a>
+ </li>
+<li class="slide" id="slide4">
+    <a href="#">
+     <p class="caption">COMIDA PARA REUNION A TAN SOLO $400</P> 
+ <img src="l.png" alt="photo 4"> 
+ </a>
+ </li>
+ </ul>
+<ul class="slider-controler">
+      <li><a href="#slide1">&bullet;</a></li>
+      <li><a href="#slide2">&bullet;</a></li>
+      <li><a href="#slide3">&bullet;</a></li>
+      <li><a href="#slide4">&bullet;</a></li>
+
+  
+</div>
+<p><b><h1>La comida para niños incluye:</p></b></h1>
+</body>
+</html>
+

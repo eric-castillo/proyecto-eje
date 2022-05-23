@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>KukoDonuuts!! </title>
+<center> 
+<img src="logo.jpg">
+<font face="Comic Sans MS,arial,verdana"> <font size=4> 
+           <ul class=”idc-lista”>
+      <li> <ul> <a href="Nosotrosx3.html">NOSOTROS</a> </ul> </li> 
+      <li> <ul> <a href="Ofertaaaaaas x2.html">OFERTAS Y PROMOCIONES</a> </ul> </li> 
+      <li> <ul> <a href="Sabias.html"> ¿Sabias que...?</a> </ul> </li>
+
+</ul>
+</li>
+ </font>
+</CENTER>
+</head>
+
+<body> <center> 
+
+<img src="mascota.gif"alt= "mascota.gif"> 
+<img src="menu donas.jpeg">
+<img src="menu bebidas.jpeg">
+<body background="fondo azul.jpg">
+</CENTER>
+</body>
+</html>

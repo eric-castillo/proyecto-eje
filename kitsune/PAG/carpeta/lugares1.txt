@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html> 
+ <head> 
+<html lang="en">
+ <meta charset="UTF-8">
+    <title>Kitsune</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="Estilo.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link rel="icon" type="image/png" href="ICON KITSUNE.jpg">
+    <title> "Kitsune" </title>
+ <link rel="stylesheet"type="text/css" href="estilo3.css">
+ </head>
+    <header>
+<header style="background-color:#EF5350;">
+    
+ <ul class="menu">
+ <li><a href="#">Inicio</a> </li>
+<li><a href="#">Menu</a> </li>
+ <li><a href="D:\Nueva carpeta\promociones3.html">Promociones</a></li> 
+ <li><a href="#">Mercancia</a> </li>
+ <li><a href="D:\sucursales\sucursales.html">Sucursales</a></li>
+ <li><a href="#">Contactanos</a> </li>
+  </ul>
+    </header>
+<body>
+<img src="uno.jpg"
